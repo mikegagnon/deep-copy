@@ -10,7 +10,7 @@ Mastery of
 
 ## Contents
 
-- [Lecture 1. Review of references](#lec1)
+- [Lecture 1. Introduction to deep copy](#lec1)
 
 ## <a name="lec1">Lecture 1. Review of references</a>
 
@@ -32,4 +32,8 @@ for (var i = 0; i < a.length; i++) {
   b[i] = a[i];
 }
 ```
+
+Study the following console interaction:
+
+<img src="foo-bar-2.png" width=500>
 
