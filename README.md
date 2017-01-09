@@ -10,9 +10,9 @@ Mastery of
 
 ## Contents
 
-- [Lecture 1. Introduction to deep copy](#lec1)
+- [Lecture 1. Introduction to deep copying](#lec1)
 
-## <a name="lec1">Lecture 1. Review of references</a>
+## <a name="lec1">Lecture 1. Introduction to deep copyings</a>
 
 Recall, JavaScript uses "references."
 
