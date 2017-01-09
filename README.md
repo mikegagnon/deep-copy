@@ -18,4 +18,4 @@ Recall, JavaScript uses "references."
 
 Study the following console interaction:
 
-<img src="foo-bar.png" width=400>
+<img src="foo-bar.png" width=500>
