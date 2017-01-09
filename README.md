@@ -37,3 +37,6 @@ Study the following console interaction:
 
 <img src="foo-bar-2.png" width=500>
 
+That's the idea of deep copying.
+
+
